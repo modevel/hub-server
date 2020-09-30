@@ -1,13 +1,13 @@
-package online.dipa.hubserver;
+package online.dipa.backend.introdipa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HubServerApplicationTests {
+class IntroToDipaApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
