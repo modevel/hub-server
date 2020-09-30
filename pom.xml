@@ -10,7 +10,7 @@
     </parent>
     <groupId>online.dipa.backend</groupId>
     <artifactId>intro-to-dipa</artifactId>
-    <version>0.1.0</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>intro-to-dipa</name>
     <description>Introducion for Spring Boot and Cloud</description>
 
